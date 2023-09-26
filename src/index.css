@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: #fff;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+input {
+  color: #0e1129;
+}
+
+body {
+  padding: 2rem;
+  background-color: #0e1129;
+}
+
+p {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
